@@ -1,6 +1,6 @@
 
 body{
-    background-image: linear-gradient(white, rgb(0, 17, 167));
+    background-image: linear-gradient(white, #00802b);
 
 }
 ul.ulnav{
@@ -62,7 +62,7 @@ a.nav:hover{
     padding: 10px; 
     height: 79%;
     width: 37%;
-    background: #000033;
+    background: #b3b3b3;
     box-shadow: 10px 10px 5px;
     margin-top: 5%;
 
@@ -94,7 +94,7 @@ span.standout{
     position: absolute;
     width: 55%; 
     height: 80%; 
-    background-color: #000033;
+    background-color:   #b3b3b3;
     top: 10%; 
     border: absolute;
     right: 5%; 
@@ -103,7 +103,8 @@ span.standout{
     border: 2px solid #333333;
 }
 #myHeader {
-    background-color: #002b80;
+    background-image: linear-gradient(white, #00802b);
+
     color: black;
     padding: 40px;
     text-align: center;
