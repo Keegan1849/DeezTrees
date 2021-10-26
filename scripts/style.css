@@ -34,12 +34,12 @@ li.linav a:hover{
 }
 span.subtitle{
     font-size: 13pt;
-    color:#bfbfbf;
+    color:#000000;
     font-family: verdana;
 }
 span.maintitle{
     font-size: 18pt;
-    color:#bfbfbf;
+    color:#000000;
     font-family: verdana;
 }
 a.nav{
@@ -47,11 +47,11 @@ a.nav{
     color:rgb(0, 0, 0);
     font-family: verdana;
     text-decoration: none;
-    color: #bfbfbf;
+    color: #000000;
 }
 a.nav:hover{
     font-size: 14pt;
-    color:rgb(0, 183, 255);
+    color:rgb(0, 0, 0);
     font-family: verdana;
     text-decoration:none;
 }
