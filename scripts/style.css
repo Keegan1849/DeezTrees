@@ -1,6 +1,6 @@
 
 body{
-    background-image: linear-gradient(white, #00802b);
+    background-image: linear-gradient(white, #6ab683);
 
 }
 ul.ulnav{
@@ -103,7 +103,7 @@ span.standout{
     border: 2px solid #333333;
 }
 #myHeader {
-    background-image: linear-gradient(white, #00802b);
+    background-image: linear-gradient(white, #6ab683);
 
     color: black;
     padding: 40px;
@@ -193,7 +193,36 @@ tr.cell-top{
     font-size: 40;
 }
 #John-Small{
-    font-size: 200
-    pt;
-}
 
+    font-size: 20pt;
+}
+#Pro-box{
+    background-color: #00ff40;
+    padding: 4%;
+    height: 60%;
+    width: 35%;
+    box-shadow: 5px 5px 2.5px;
+    border-radius: 1.1%;    
+    border: 2px solid #333333;
+    margin-top: 10%;
+    margin-left: 2.5%;
+    position: absolute;
+}
+#prowords{
+    font-size: 15pt;
+}
+#Con-box{
+    background-color: #00ff40;
+    padding: 4%;
+    height: 60%;
+    width: 35%;
+    box-shadow: 5px 5px 2.5px;
+    border-radius: 1.1%;    
+    border: 2px solid #333333;
+    margin-top: 10%;
+    margin-left: 50%;
+    position: absolute;
+}
+#Prosize{
+    font-size: 20pt;
+}
