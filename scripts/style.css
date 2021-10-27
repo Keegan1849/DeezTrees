@@ -193,5 +193,12 @@ tr.cell-top{
     font-size: 40;
 }
 #John-Small{
+<<<<<<< HEAD
     font-size: 20pt;
 }
+=======
+    font-size: 200
+    pt;
+}
+
+>>>>>>> 99e65a2e7d133597fe45f79b31d8d81d7ddc682a
