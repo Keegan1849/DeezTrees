@@ -43,7 +43,7 @@ span.maintitle{
     font-family: verdana;
 }
 a.nav{
-    font-size: 12pt;
+    font-size: 10.5pt;
     color:rgb(0, 0, 0);
     font-family: verdana;
     text-decoration: none;
@@ -208,7 +208,7 @@ tr.cell-top{
     position: absolute;
 }
 #prowords{
-    font-size: 15pt;
+    font-size: 13pt;
 }
 #Con-box{
     background-color: #00ff40;
@@ -223,10 +223,14 @@ tr.cell-top{
     position: absolute;
 }
 #Prosize{
-    font-size: 20pt;
+    font-size: 28pt;
 }
 
 #John-Big{
     font-size: 50pt;
     padding: 2.5%;
+}
+#bold{
+    font-size: 55pt;
+
 }
