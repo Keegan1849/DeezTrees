@@ -193,12 +193,9 @@ tr.cell-top{
     font-size: 40;
 }
 #John-Small{
-<<<<<<< HEAD
-    font-size: 20pt;
+    font-size: 25pt;
+    padding: 2.5%;
 }
-=======
-    font-size: 200
-    pt;
+#img1{
+width: 500px;
 }
-
->>>>>>> 99e65a2e7d133597fe45f79b31d8d81d7ddc682a
