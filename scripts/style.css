@@ -193,14 +193,6 @@ tr.cell-top{
     font-size: 40;
 }
 #John-Small{
-<<<<<<< HEAD
-    font-size: 25pt;
-    padding: 2.5%;
-}
-#img1{
-width: 500px;
-}
-=======
     font-size: 20pt;
     padding: 2.5%;
 }
@@ -250,4 +242,6 @@ width: 500px;
 #titanicpic{
     padding: 5px;
 }
->>>>>>> 46a0648efd92bb10131a023c42db3392449afa97
+#img1{
+    height: 300pt;
+}
