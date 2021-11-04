@@ -193,55 +193,13 @@ tr.cell-top{
     font-size: 40;
 }
 #John-Small{
-    font-size: 20pt;
+    font-size: 25pt;
     padding: 2.5%;
-}
-#Pro-box{
-    background-color: #00ff40;
-    padding: 4%;
-    height: 60%;
-    width: 35%;
-    box-shadow: 5px 5px 2.5px;
-    border-radius: 1.1%;    
-    border: 2px solid #333333;
-    margin-top: 10%;
-    margin-left: 2.5%;
-    position: absolute;
-}
-#prowords{
-    font-size: 13pt;
-}
-#Con-box{
-    background-color: #00ff40;
-    padding: 4%;
-    height: 60%;
-    width: 35%;
-    box-shadow: 5px 5px 2.5px;
-    border-radius: 1.1%;    
-    border: 2px solid #333333;
-    margin-top: 10%;
-    margin-left: 50%;
-    position: absolute;
-}
-#Prosize{
-    font-size: 28pt;
-}
-
-#John-Big{
-    font-size: 50pt;
-    padding: 2.5%;
-}
-#bold{
-    font-size: 55pt;
-
-}
-#titanic{
-    font-size: 20pt;
-    padding: 5%;
-}
-#titanicpic{
-    padding: 5px;
 }
 #img1{
-    height: 300pt;
+width: 500px;
+}
+#JP-Small{
+    font-size: 22pt;
+    padding: 2.5%;
 }
