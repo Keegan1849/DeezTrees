@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("teeeeeez.jpg");
+    background-image: url(treez.jpg);
     background-repeat: repeat-x;
 
 }
@@ -51,7 +51,7 @@ a.nav{
     color: #000000;
 }
 a.nav:hover{
-    font-size: 14pt;
+    font-size: 11pt;
     color:rgb(0, 0, 0);
     font-family: verdana;
     text-decoration:none;
