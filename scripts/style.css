@@ -1,6 +1,7 @@
 
 body{
-    background-image: linear-gradient(white, #6ab683);
+    background-image: url(treez.jpg);
+    background-repeat: repeat-x;
 
 }
 ul.ulnav{
@@ -50,7 +51,7 @@ a.nav{
     color: #000000;
 }
 a.nav:hover{
-    font-size: 14pt;
+    font-size: 11pt;
     color:rgb(0, 0, 0);
     font-family: verdana;
     text-decoration:none;
