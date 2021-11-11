@@ -67,7 +67,7 @@ a.nav:hover{
     background: #b3b3b3;
     box-shadow: 10px 10px 5px;
     margin-top: 5%;
-
+    opacity: 0.9;
 }
 p.p_content{
     font-size: 12pt;
@@ -102,11 +102,11 @@ span.standout{
     right: 5%; 
     border-radius: 1.1%;
     box-shadow: 10px 10px 5px;
-    border: 2px solid #333333;
+    border: 2px solid #000000;
+    opacity: 0.9;
 }
 #myHeader {
-    background-image: linear-gradient(white, #6ab683);
-
+    background-image: linear-gradient( #6ab683, rgb(255, 255, 255));
     color: black;
     padding: 40px;
     text-align: center;
@@ -229,3 +229,8 @@ padding: 2.5%;
     bottom: 74%;
     font-size: 18pt;
 }
+#img2{
+    width: 500px;
+    padding: 2.5%;
+    opacity: 1.0;
+    }
