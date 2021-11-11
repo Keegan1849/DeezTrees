@@ -214,6 +214,14 @@ padding: 2.5%;
     font-size: 20pt;
 
 }
+#titanic{
+    padding: 2.5%;
+}
+#titanicpic{
+    padding: 2.5%;
+    border-radius: 40px;
+
+}
 #GHG2{
     position: relative;
     right: -50%;
