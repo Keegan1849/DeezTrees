@@ -1,9 +1,10 @@
 
 body{
-    background-image: url(treez.jpg);
-    background-repeat: repeat-x;
-
+    background-image: url("treez.png"); 
+    background-size: cover;
 }
+
+
 ul.ulnav{
     border-radius: 1.1%;
     list-style-type: none;
