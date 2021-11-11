@@ -106,8 +106,7 @@ span.standout{
     opacity: 0.9;
 }
 #myHeader {
-    background-image: linear-gradient(rgb(255, 255, 255), #6ab683);
-
+    background-image: linear-gradient( #6ab683, rgb(255, 255, 255));
     color: black;
     padding: 40px;
     text-align: center;
