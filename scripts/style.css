@@ -233,4 +233,17 @@ padding: 2.5%;
     width: 500px;
     padding: 2.5%;
     opacity: 1.0;
-    }
+}
+#probox{
+    background-color: #15ff00;
+    position: relative;
+    right: -15%;
+    position: relative;
+    bottom: -50%;
+    height: 50%;
+    width: 70%;
+
+    box-shadow: 10px 10px 5px;
+    border-radius: 1.1%;    
+    border: 2px solid #333333;
+}
