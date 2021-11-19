@@ -1,7 +1,7 @@
 
 body{
     background-image: url('../images/treez.jpg'); 
-    background-size: cover;
+    background-size:100% ;
 }
 ul.ulnav{
     border-radius: 1.1%;
@@ -229,6 +229,6 @@ padding: 2.5%;
 }
 #img2{
     width: 500px;
-    padding: 2.5%;
-    opacity: 1.0;
-    }
+    padding: 1.5%;
+
+}
