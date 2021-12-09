@@ -237,7 +237,7 @@ padding: 2.5%;
     position: relative;
     right: -15%;
     position: relative;
-    bottom: -50%;
+    bottom: 50%;
     height: 50%;
     width: 70%;
 
@@ -250,5 +250,5 @@ padding: 2.5%;
     font-size: 57;
 }
 #JP-Small2 {
-    font-size: 6px;
+    font-size: 1px;
 }
