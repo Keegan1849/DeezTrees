@@ -238,12 +238,12 @@ padding: 2.5%;
     right: -15%;
     position: relative;
     bottom: -50%;
-    height: 50%;
-    width: 70%;
-
     box-shadow: 10px 10px 5px;
     border-radius: 1.1%;    
     border: 2px solid #333333;
+    font-size: 15pt;
+    width: 40%;
+    height: 50%;
 }
 #John-Big {
     color: #000000;
